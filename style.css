@@ -1,0 +1,74 @@
+ body {
+  background-color: Gray;
+}
+ .center {
+  text-align: center;
+  border-radius: 100px;
+  background-color: Green;
+}
+ .leftWing {
+  pandding-left: 200px;
+}
+ .rightWing {
+  pandding-right: 200px;
+}
+ h1 {
+  background: linear-gradient(90deg, sandyBrown, saddleBrown, deepSkyBlue);
+  filter: saturate(75%);
+}
+ h2 {
+  text-align: center;
+  background-color: blue;
+  font-weight: bold;
+  font-family: cursive;
+}
+
+ h3 {
+  text-align: center;
+  background-color: blue;
+  font-family: cursive;
+  filter: opacity(25%);
+}
+ p {
+  background-color: lavender;
+  border: 1px solid black;
+  font-size: 30px;
+  font-family: cursive;
+  font-style: italic;
+  font-weight: bold;
+}
+ .gray-element {
+  background-color: lightgrey;
+}
+ img {
+  height: 100px;
+}
+ button {
+  margin: 15px 500px 15px 500px;
+  widht: 300px;
+  heigt: 150px;
+  border-radius: 20px;
+  background-color: red;
+  border: solid 5px dimGray;
+  transform: rotate(-45deg);
+}
+ h4 {
+  border-radius: 0 0 0 20px;
+  widht: 20px;
+  heigt: 20px;
+  background-color: lightBlue;
+  text-align: center;
+}
+ .coupon {
+  border: solid 5px blue;
+  border-radius: 10px;
+}
+ img {
+  border-radius: 15px;
+}
+ h5 {
+  filter: blur(1px);
+}
+ h6 {
+  filter: blur(1px);
+}
